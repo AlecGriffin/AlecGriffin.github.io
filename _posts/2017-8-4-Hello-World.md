@@ -4,7 +4,7 @@ title: Week 1
 ---
 
 
-What are your expectations of the class? (special question, first time only)
+**What are your expectations of the class? (special question, first time only)**
 
 What did you do this past week?
 
